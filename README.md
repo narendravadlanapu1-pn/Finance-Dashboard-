@@ -14,6 +14,21 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+#  Finance Dashboard
+
+A responsive finance dashboard built using React.
+
+## Features
+- Role-based access (Admin / Viewer)
+- Add & filter transactions
+- Charts (Line & Pie)
+- LocalStorage persistence
+
+## 🛠 Tech Stack
+- React.js
+- Bootstrap
+- Recharts
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
