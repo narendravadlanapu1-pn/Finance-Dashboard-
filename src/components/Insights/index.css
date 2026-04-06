@@ -1,0 +1,32 @@
+.insights-card {
+  background: #1e293b;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.insights-title {
+  color: #38bdf8;
+  margin-bottom: 15px;
+}
+
+.insights-list li {
+  margin-bottom: 8px;
+  color: #e2e8f0;
+}
+
+.success-text {
+  color: #22c55e;
+  font-weight: 500;
+}
+
+.warning-text {
+  color: #ef4444;
+  font-weight: 500;
+}
+.Insights-logo{
+  height: 50px;
+  width: 50px;
+  background-color: #1e293b;
+  border-radius: 50px;
+  margin-right: 12px;
+}
