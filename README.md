@@ -24,7 +24,7 @@ A responsive finance dashboard built using React.
 - Charts (Line & Pie)
 - LocalStorage persistence
 
-## 🛠 Tech Stack
+## Tech Stack
 - React.js
 - Bootstrap
 - Recharts
